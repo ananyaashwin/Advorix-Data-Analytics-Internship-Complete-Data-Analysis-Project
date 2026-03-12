@@ -1,2 +1,5 @@
-# Advorix-Data-Analytics-Internship-Complete-Data-Analysis-Project
-Compulsory task including concepts like data cleaning, data transformation and formatting, descriptive analysis , visual statistics with insights and conclusion report
+Project Title- Advorix Data Analytics Internship Complete Data Analysis Project
+Project Description- End to End Basic Project with tasks such as Data cleaning (null values and duplicates), Data transformation and formatting, Descriptive statistics(Mean, Median, Mode, Standard Deviation and Other Sumaary Statistics), Visual statistics(Bar/Column charts, Line chart, Pie chart, Area chart, XY Scatter Chart, Surface Chart, Histogram and Waterfall Chart).
+Table of Contents- Sheet 1- Amazon Sales Data , Sheet 2- Table Visualisation of the data , Sheet 3- Descriptive Statistics, Sheet 4- Overall Revenue Pivot Chart, Sheet 5- Product Quantity Pivot Chart, Sheet 6- Product Revenus Pivot Chart, Sheet 7- Region Revenue Pivot Chart, Sheet 8- Payment Method across Category, Sheet 9- Payment Method across Region, Sheet 10- Discount Pivot Chart, Sheet 11- Consumer Behaviour, Sheet 12- Visualisation Charts Set 1 , Sheet 13- Visualisation Charts Set 2. Word document attached containing conclusion and insights report. 
+Required Aplications - Microsoft Excel and Microsoft Word
+How to Use- The various contents in the different sheets have different parts of the data compiled to give the viewer / user better understanding and easier comprehension of the various methods of working of the data sets.
