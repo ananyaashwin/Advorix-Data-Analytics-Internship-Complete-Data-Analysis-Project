@@ -1,0 +1,26 @@
+Row Labels,Sum of total_revenue,Sum of quantity_sold
+Asia,111541.05,472
+Cash on Delivery,22742.79,89
+Credit Card,15265.22,74
+Debit Card,20823.72,81
+UPI,25750.36,112
+Wallet,26958.96,116
+Europe,108552.33,504
+Cash on Delivery,23126.22,92
+Credit Card,22365.26,122
+Debit Card,24724.78,107
+UPI,19373.36,77
+Wallet,18962.71,106
+Middle East,88484.19,419
+Cash on Delivery,16465.08,80
+Credit Card,11829.32,61
+Debit Card,17945.55,79
+UPI,20164.3,93
+Wallet,22079.94,106
+North America,7000.59,38
+Cash on Delivery,2148.3,12
+Credit Card,1485.68,7
+Debit Card,924.35,5
+UPI,947.25,4
+Wallet,1495.01,10
+Grand Total,315578.16,1433

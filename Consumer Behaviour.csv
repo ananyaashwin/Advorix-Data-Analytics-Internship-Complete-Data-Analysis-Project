@@ -1,0 +1,30 @@
+Row Labels,Sum of rating,Sum of review_count
+Asia,150,37545
+Beauty,22,5976
+Books,33,8957
+Electronics,24,5241
+Fashion,26,6025
+Home & Kitchen,26,5892
+Sports,19,5454
+Europe,171,45262
+Beauty,37,9030
+Books,26,6693
+Electronics,29,7922
+Fashion,22,5781
+Home & Kitchen,32,10056
+Sports,25,5780
+Middle East,143,35621
+Beauty,19,5194
+Books,30,6603
+Electronics,27,6316
+Fashion,20,4756
+Home & Kitchen,24,5511
+Sports,23,7241
+North America,35,8829
+Beauty,7,1731
+Books,4,551
+Electronics,5,1592
+Fashion,3,671
+Home & Kitchen,7,1877
+Sports,9,2407
+Grand Total,499,127257

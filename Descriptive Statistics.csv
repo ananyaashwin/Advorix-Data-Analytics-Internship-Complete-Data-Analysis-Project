@@ -1,0 +1,20 @@
+Price,,,Discount Percent,,,Quantity Sold,,,Discounted Price,,,Total Revenue,
+,,,,,,,,,,,,,
+Mean,254.9746092,,Mean,13.75751503,,Mean,2.871743487,,Mean,220.6440882,,Mean,632.4211623
+Standard Error,6.503390387,,Standard Error,0.453376548,,Standard Error,0.066707044,,Standard Error,5.82608774,,Standard Error,23.78695805
+Median,261.85,,Median,10,,Median,3,,Median,218.53,,Median,434.04
+Mode,401.45,,Mode,30,,Mode,1,,Mode,362.98,,Mode,1954.05
+Standard Deviation,145.2747369,,Standard Deviation,10.12766493,,Standard Deviation,1.490122487,,Standard Deviation,130.1449418,,Standard Deviation,531.3603929
+Sample Variance,21104.74917,,Sample Variance,102.569597,,Sample Variance,2.220465026,,Sample Variance,16937.70588,,Sample Variance,282343.8672
+Kurtosis,-1.258045866,,Kurtosis,-1.074249115,,Kurtosis,-1.403108417,,Kurtosis,-1.117830923,,Kurtosis,0.241958964
+Skewness,-0.023349296,,Skewness,0.313645929,,Skewness,0.096594871,,Skewness,0.110809099,,Skewness,1.001327314
+Range,494.03,,Range,30,,Range,4,,Range,492.26,,Range,2471.7
+Minimum,5.47,,Minimum,0,,Minimum,1,,Minimum,4.38,,Minimum,11.5
+Maximum,499.5,,Maximum,30,,Maximum,5,,Maximum,496.64,,Maximum,2483.2
+Sum,127232.33,,Sum,6865,,Sum,1433,,Sum,110101.4,,Sum,315578.16
+Count,499,,Count,499,,Count,499,,Count,499,,Count,499
+,1,,,1,,,1,,,1,,,1
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
