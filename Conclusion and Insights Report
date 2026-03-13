@@ -1,0 +1,114 @@
+Advorix Data Analytics Internship Complete Data Analysis Project Task Insights and Conclusion Report
+Introduction and Data Sheet Overview
+The datasheet is that of Amazon sales for the years 2022 and 2023. The fields or columns that are part of this data set include 500 rows and 13 columns containing the following:
+Order Id
+Order Date
+Product Type 
+Pricing and Discount
+Discounted Price
+Total Revenue
+The Quantity of Product Sold
+The Customer’s Region
+The Payment Method 
+Rating and Review of the Product
+
+Since Amazon is already a very popular E-Commerce brand, it is not surprising that the quantity and consumer willingness to purchase in this dataset is very high. The regions of purchase too are widely spread globally like Asia, Middle East, Europe and North America making their presence felt. 
+The product range is also great and caters to a wide range of consumers. The products that are selling in a good scale according to the dataset include merchandise like fashion, home and kitchen products, beauty and skincare, books and stationery, sporting goods and electronics
+The data set provides ample or required information to sort out the raw data and clean it after formatting and transforming it. Its also efficient to accordingly perform descriptive statistics and visualisations.
+
+Sales, Revenue and Quantity in terms of Product Category
+In terms of leading in revenue Home and Kitchen takes the lead followed by Electronics. The other categories of products like Books and Sports are considered middle sales and the other two Beauty and Fashion with Fashion being the least sold.
+In terms of quantity or volume of products being sold Books are the most sold followed by Home and Kitchen. Electronics and Beauty are in the middle range followed by Sports and Fashion with Fashion being the least sold category. 
+
+Sales, Revenue and Quantity in Terms of Customer Region
+In terms of revenue generation across all categories and the total number of products sold, Asia takes the lead followed by Europe. Middle East is in the middle range while North America happens to be at the last position in terms of revenue generation.
+In terms of Quantity Europe is at the lead position followed by Asia. Middle East remains at the middle position whereas North America comes down to the least.
+
+Payment Methods in terms of Customer Region
+Cash on Delivery – Europe is the highest followed by Asia and Middle East while North America is the least
+Credit Card-Europe is the highest followed by Asia and Middle East and North America is the least once again
+Debit Card- Europe is the highest followed by Asia and Middle East and North America is the least 
+UPI- Asia is the highest followed by Europe and Middle East with North America being the least 
+Wallet- Asia is the highest followed by Middle East and Europe and North America being the least once again
+
+Payment Method in terms of Product Category
+Wallet takes the lead in terms of payment method across product categories. This is followed by UPI, Cash on Delivery and Debit Card. Credit Card payment method is the least used method across all product categories.
+
+Discount in terms of Product Category
+Higher the discount higher the quantity sold meaning both of them are directly proportionate
+Books have the highest discount sum so they are the most sold product.
+Fashion has the least discount sum so it is the least sold product 
+The rest of the products like Home and Kitchen, Electronics, Beauty, Sports also have discounts and even their quantity sold is proportional and in accordance with the discount that the particular category has received.
+
+Consumer Behaviour, Rating and Count
+Asia
+Most sold product includes Books. This is followed by Fashion, Beauty, Home and Kitchen, Sports and at the last position or least sold is Electronics
+
+Europe 
+Most sold is Home and Kitchen. This is followed by Beauty, Electronics, Books, Fashion and Electronics as the least sold or at the last position 
+
+Middle East
+Sports are the most sold. This is followed by Books, Electronics, Home and Kitchen, Beauty and at the last position or least sold is Fashion.
+
+North America
+Sports is the most sold. This is followed by Home and Kitchen, Beauty, Electronics, Fashion and at the last position or least sold is Books
+
+In terms of overall number of Ratings, Europe takes the lead. This is followed by Asia, Middle East and at the last position is North America. 
+In Asia, the most rated product all in terms of number of ratings is Books. This is followed by Fashion, Home and Kitchen, Electronics, Beauty. The least number of ratings is for Sports. 
+In Europe, Beauty has the highest number of ratings followed by Home and Kitchen, Electronics, Books and Sports. The least number of ratings is for Fashion.
+In Middle East, Books has the highest number of ratings followed by Electronics, Home and Kitchen, Sports and Fashion. The least number of ratings is for Beauty.
+In North America, Sports has the highest number of ratings followed by Beauty, Home and Kitchen, Electronics and Books. The least number of ratings is for Fashion. 
+
+In terms of sum of overall number of Review Counting, Europe takes the lead with the highest number. This is followed by Asia and Middle East and North America is at the last position. 
+In Asia, Books has the highest review count. This is followed by Fashion, Beauty, Home and Kitchen and Sports. The least review count is for Electronics.
+In Europe, Home and Kitchen has the highest review count. This is followed by Beauty, Electronics, Books and Fashion. The least review count is for Sports.
+In Middle East, Sports has the highest review count. This is followed by Books, Electronics, Home and Kitchen and Beauty. The least review count is Fashion. 
+In North America, Sports has the highest review count. This is followed by Home and Kitchen, Beauty, Electronics and Fashion. The least review count is for Books. 
+
+Descriptive Statistics Analysis 
+Mean 
+Prices of all Products across Categories and Regions is around 255.
+Discount Percent of all Products across Categories and Regions is around 13.75%.
+Quantity Sold of all Products across Categories and Regions are around 2.87 rounded off to 3.
+Discount Price of all Products across Categories and Regions is 220.64
+Total Revenue of all Products across Categories and Regions is 632.42. 
+
+Median
+Prices of all Products across Categories and Regions is 261.85.
+Discount Percent of all Products across Categories and Regions is 10.
+Quantity Sold of all Products across Categories and Regions are 3.
+Discount Price of all Products across Categories and Regions is 218.53
+Total Revenue of all Products across Categories and Regions is 434.04
+
+Mode
+Price of all Products across categories and Regions is 401.45
+Discount Percent of all Products across Categories and Regions is 30.
+Quantity sold of all Products across Categories and Regions is 1.
+Discount Price of all Products across Categories and Regions is 362.98
+Total Revenue of all Products across Categories and Regions is 1954.05
+
+Standard Deviation 
+Highest for Total Revenue at 531.36
+Price is next at 145.27
+Discounted price is next at 130.149
+Discounted percent is next at 10.12
+Lowest for Quantity Sold at 1.490
+
+Visualisations 
+It provides an overall insight of the entire data set, spanning across all of the product categories, payment methods, regions, date of order, quantity of order and the total revenue generated. The visual charts chosen for this purpose are Bar/Column Chart, Line Chart, Pie Chart, Area Chart, XY Scatter Chart, Surface Chart, Histogram and Waterfall Chart.
+
+Insights and Conclusion
+Conclusion
+a)	Pricing is sensible and with reasonable discount percentage and discounted price, the products are sold at a reasonable price.
+b)	Revenue generated differs based on region of purchase and product category
+c)	Higher discount leads to more quantity sold making it directly proportional 
+d)	Consumer Behaviour analysis indicates strong customer loyalty presence in Europe followed by Asia and Middle East with North America being the least in consumer engagement
+e)	Quantity sold also differs in each region and is directly proportional to both region and product category 
+f)	When it comes to methods of payment, across product categories wallet payment is very popular and when it comes to region as well wallet is the most popular payment method.
+Insights
+a)	Customer engagement must be improved in North America
+b)	Discounts help in revenue generation and improve consumer interest to purchase so wherever possible discounts must be provided 
+c)	Whichever products are facing lower purchase rate across regions must be marketed better to improve the purchase rate in turn the revenue generation
+d)	Consumer feedback must be more encouraged in order to observe customer pattern and curate business strategies accordingly
+e)	Different payment methods must be promoted across product categories and regions to encourage diversity 
+f)	In case of lower rate of profits, necessary measures to be taken in order to improve the profit rate by providing discounts and better marketing as mentioned earlier. 
